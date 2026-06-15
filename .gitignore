@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+backend/models/*.pkl
+
+# Node / Frontend
+node_modules/
+dist/
+.eslintcache
+
+# Environment / Secret keys
+.env
+.env.local
+
+# Databases
+*.db
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+.gemini/
